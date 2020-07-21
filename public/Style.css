@@ -39,7 +39,7 @@ html, body{
 }
 
 .navbar .navbar-brand h5{
-    padding: .4rem 2rem;
+    padding: .2rem 2rem;
     margin: 0;
 }
 
@@ -65,7 +65,7 @@ html, body{
 /* Styling Checkbox */
 
 .lightswitch{
-    width: 40px;
+    width: 7px;
     height: 7px;
     background: rgb(192, 188, 188);
     margin: 20px auto;
@@ -113,7 +113,7 @@ html, body{
 }
 
 .container h4{
-  font-size: 11rem;
+  font-size: 2rem;
   margin: 0 .4rem;
   padding: 0 1rem;
   margin-top: 2rem;
